@@ -1,3 +1,11 @@
+> [!WARNING]
+> **Archived upstream project — retained for reference**
+>
+> The upstream [Gravity Sync project](https://github.com/vmstan/gravity-sync) is retired and its repository is archived. CamCore retains this fork as a source reference only and does not claim active maintenance, deployment, support or verified live operation. The upstream retirement notice, documentation, attribution, licence and Pi-hole trademark text are preserved below.
+
+---
+
+
 <p align="center">
 <img src="images/gs-logo.svg" width="300" alt="Gravity Sync">
 </p>
